@@ -1,0 +1,11 @@
+REPOSITORIO:
+
+Es nuestro lugar de trabajo donde nosotros trabajamos y organizamos nuestros archivos o proyectos, y realizamos cambios.
+
+
+COMMIT:
+Guarda un registro de cambios realizados en nuestros proyectos. Actualiza las ramas remotas con tu historial de trabajo, compartiendo así tus modificaciones con el resto del equipo
+
+
+PUSH:
+ sirve para subir los cambios confirmados  desde tu repositorio local a un repositorio remoto (Como GITHUB) Actualiza las ramas remotas con tu historial de trabajo, compartiendo así tus modificaciones con el resto del equipo.

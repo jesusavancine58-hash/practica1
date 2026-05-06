@@ -1,0 +1,8 @@
+ Reflexión de la semana
+
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+
+Respuesta: 
+El uso de herramientas de control de versiones como Git es fundamental en el desarrollo de software moderno porque permite mantener un historial detallado de cada modificación realizada. 
+Esto facilita enormemente la colaboración entre múltiples desarrolladores, ya que permite trabajar en diferentes funcionalidades de forma simultánea sin interferir en el código principal. 
+Además, Git actúa como un sistema de seguridad, permitiendo revertir el proyecto a versiones anteriores en caso de errores críticos o fallos inesperados. 
