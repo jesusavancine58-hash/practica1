@@ -1,0 +1,7 @@
+Reflexión de la semana
+
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+
+Aprender a usar la terminal va más allá de escribir comandos.
+Es entender lo que ocurre detrás de cada proyecto que construyes, es dejar de depender de lo visual y empezar a tener control real cada comando que aprendes te hace más rápido, más preciso. Te obliga a pensar de forma lógica y ordenada
+Te acerca al verdadero mundo del desarrollo profesional porque no se trata solo de programar, sino de dominar las herramientas que usas. Y ahí es donde realmente empiezas a crecer
